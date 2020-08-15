@@ -1,2 +1,3 @@
 # hello-world
-just learning to set up a new repository
+
+This is where you can edit before committing changes to the main branch
